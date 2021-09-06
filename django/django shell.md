@@ -12,6 +12,8 @@ pip install django-extensions
 python manage.py shell_plus
 ```
 settings.py의 INSTALLED_APPS 에 django_extensions을 꼭 추가해줘야 한다.
+
+
 ![](https://images.velog.io/images/woongss/post/da611411-c89f-4bc1-9023-deca3c53da40/image.png)
 
 django-extension이 아닌 django_extensions라는 점에 주의해야 한다.
