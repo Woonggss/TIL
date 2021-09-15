@@ -14,3 +14,5 @@ CPU에 CLOCK이라는 부품을 추가해서, Fetch - Decode - Execute 의 사�
 CPU가 각 사이클을 도는 속도를 clock speed라고 표현하는데, Hz로 표현하며 1Hz = 1 cycle / 1s 이다. 더 빠른 단위로 KHz, MHz, GHz 등의 단위가 있다.
 기본 clock speed보다 더 속도를 높여서 CPU를 빠르게 할 수도(Overclock), 속도를 낮춰서 CPU를 느리게 할 수도(Underclock) 있다. Underclock의 경우 전력 소비 감축 효과가 있기 때문에, 배터리로
 동작하는 노트북이나 스마트폰에서 아주 중요하다. 그래서 clock speed를 자동으로 조절해줄 필요가 있는데, 이를 dynamic speed scaling(동적 주파수 스케일링) 이라고 한다.
+
+### 참고
